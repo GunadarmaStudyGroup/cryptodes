@@ -3,7 +3,7 @@
 
 |LICENSE| Slide | Algorithm | Program | Version |
 |-------|-------|-----------|----------|-------- |
-|[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/codemargonda-master/codemargonda-system/blob/master/LICENSE.md)| [![Slide](https://img.shields.io/badge/slide-passed-yellowgreen.svg)](#) | [![Algorithm](https://img.shields.io/badge/algorithm-0%25-lightgrey.svg)](#) | [![Program](https://img.shields.io/badge/in%20progress-0%25-lightgrey.svg)](#) | [Version](https://img.shields.io/badge/version-1.0-blue.svg) |
+|[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/codemargonda-master/codemargonda-system/blob/master/LICENSE.md)| [![Slide](https://img.shields.io/badge/slide-passed-yellowgreen.svg)](#) | [![Algorithm](https://img.shields.io/badge/algorithm-0%25-lightgrey.svg)](#) | [![Program](https://img.shields.io/badge/in%20progress-0%25-lightgrey.svg)](#) | [![Version](https://img.shields.io/badge/version-1.0-blue.svg)] |
 
 --------------------------------------------------
 
@@ -48,6 +48,6 @@ This main goals of 'Cryptodes' program is to implement DES algorithm function bu
 
 ## Markkdown Version
 
-[![Markdown](https://img.shields.io/badge/markdown-beta-orange.svg)]
+![Markdown](https://img.shields.io/badge/markdown-beta-orange.svg)
 
 
