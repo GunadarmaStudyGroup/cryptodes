@@ -37,7 +37,7 @@ This main goals of 'Cryptodes' program is to implement DES algorithm function bu
 
 | Name                  | Email                 | GitHub |
 |-----------------------|-----------------------|--------|
-| Fuad Aji Pratomo      | fuadajipratomo@gmail.com | [@fuadajip](https://github.com/fuadajip)
+| Fu-- A-- P--      | - | [@fuadajip](https://github.com/fuadajip)
 | Denny Aditya P     | dennydap@gmail.com   | [@dennydap](https://github.com/dennydap)
 | Singgih Aji P    | -                | -
 | Gungde Aditya     | gunkdep@gmail.com | [@gungdeaditya](https://github.com/gungdeaditya)
